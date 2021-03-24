@@ -9,5 +9,6 @@ dependencies:
   - matplotlib=3.3.4
   - plotly=4.14.3
   - ipywidgets>=7.5
+  - hdfs3
   - conda-forge::scikit-learn
 prefix: "/opt/conda"
